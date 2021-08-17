@@ -13,6 +13,8 @@
   <a href="https://github.com/yagodeoz/QuickBooks-V3-Java-SDK"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=yagodeoz&repo=QuickBooks-V3-Java-SDK&hide=html,scss,css&langs_count=10&layout=compact&theme=default">
 </p>  
 
+- 💬 https://www.linkedin.com/in/byron-santiago-segovia-quintero-a3806a24/
+    
 <!--
 
 ### Hi there 👋
